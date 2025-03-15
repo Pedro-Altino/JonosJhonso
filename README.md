@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonosJhonso
+- 👋 Hi, I’m @PedroAltino
 - 👀 I’m interested in music and games
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on nothing for the moment
